@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "gpio.h": "c",
+        "numbers": "cpp",
+        "deque": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "array": "cpp",
+        "unordered_map": "cpp",
+        "string_view": "cpp",
+        "format": "cpp",
+        "initializer_list": "cpp",
+        "span": "cpp",
+        "text_encoding": "cpp"
+    }
+}
